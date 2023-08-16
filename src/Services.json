@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Developpement Web",
+        "description": [
+            "Developpement de sites vitrine",
+            "Applications web responsives",
+            "Serveur Node JS avec Express",
+            "Referencement de site web"
+        ]
+    },
+    {
+        "title": "Web Design",
+        "description": [
+            "Creation de logo",
+            "Création de maquette web",
+            "Conception de visuel pour reseau sociaux",
+            "Création d'affiches, flyers et cartes de visite"
+        ]
+    },
+    {
+        "title": "Services Numérique",
+        "description": [
+            "Atelier découverte, initiation codage enfant",
+            "Atelier stop motion",
+            "Cours informatique débutant tout âge ",
+            "Instalation de logiciel divers et logiciel contrôle parental",
+            "Dépannage informatique"
+        ]
+    }
+]
