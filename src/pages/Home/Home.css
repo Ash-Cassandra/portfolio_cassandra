@@ -1,11 +1,11 @@
 .description {
     position: absolute;
-    top: 50%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, 0);
     text-align: justify;
     color: rgb(255, 255, 255);
-    font-size: 32px;
+    font-size: 18px;
     font-family: 'Anonymous_Pro', Arial, Helvetica, sans-serif;
     line-height: 1.4;
     list-style-type: none;

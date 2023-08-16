@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  min-height: 100vh;
+  max-height: 100vh;
+  max-width: 100vw;
   overflow: auto; /* Active le défilement du contenu lorsque nécessaire */
   background-image: url('../src/assets/img_fond.webp');
   background-size: cover;
