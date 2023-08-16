@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'League_Gothic';
+    src: url('../../assets/League_Gothic/static/LeagueGothic_SemiCondensed-Regular.ttf') format('truetype');
+}
+.pageTitle {
+    width: 100%;
+    position: absolute;
+    top: 15%;
+    text-transform: uppercase;
+    font-size: 200px;
+    font-family: 'League_Gothic', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    color: rgb(255, 255, 255);
+    letter-spacing: 13px;
+    text-align: center;
+}

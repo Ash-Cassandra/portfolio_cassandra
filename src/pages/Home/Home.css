@@ -1,0 +1,15 @@
+.description {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    font-size: 32px;
+    font-family: 'Anonymous_Pro', Arial, Helvetica, sans-serif;
+    line-height: 1.4;
+    list-style-type: none;
+    width: 65%;
+    background-color: rgb(0, 0, 0, 0.6);
+    padding: 20px;
+}

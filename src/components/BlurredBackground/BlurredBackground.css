@@ -1,0 +1,11 @@
+.blurredBackground {
+    width: 85vw;
+    height: 90vh;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(0, 0, 0, 0.6); /* Noir avec opacité */
+    backdrop-filter: blur(5px);
+    z-index: -1;
+    }
