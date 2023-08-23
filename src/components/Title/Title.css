@@ -5,11 +5,11 @@
 .pageTitle {
     width: 100%;
     position: absolute;
-    top: 10%;
+    top: 18%;
     text-transform: uppercase;
-    font-size: 180px;
+    font-size: 150px;
     font-family: 'League_Gothic', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(237, 218, 78);
     letter-spacing: 13px;
     text-align: center;
 }

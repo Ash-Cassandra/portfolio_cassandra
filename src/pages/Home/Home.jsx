@@ -8,7 +8,7 @@ function Home() {
     return(
         <div>
             <BlurredBackground/>
-            <PageTitle title='cassandra laffargue'/>
+            <PageTitle title='cassandra'/>
             <Nav/>
                 <ul className='description'>
                     <li>
