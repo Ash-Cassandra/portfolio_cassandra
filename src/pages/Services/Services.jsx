@@ -12,21 +12,21 @@ function Services() {
             <BlurredBackground/>
             <PageTitle title='services'/>
             <Nav/>
-
-            <div className='servicesTitle'>
-                {dataServices.map((service, index) => (
-                    <Collaps key={index} title={service.title}>
-                        <ul className='servicesDescription'>
-                            {service.description.map((description, index) => (
-                                <li key={index}>
-                                    {description}
-                                </li>
-                            ))}
-                        </ul>
-                    </Collaps>
-                ))}
-            </div>    
+                <main className='servicesTitle'>
+                    {dataServices.map((service, index) => (
+                        <Collaps key={index} title={service.title}>
+                            <ul className='servicesDescription'>
+                                {service.description.map((description, index) => (
+                                    <li key={index}>
+                                        {description}
+                                    </li>
+                                ))}
+                            </ul>
+                        </Collaps>
+                    ))}
+                </main>    
         </div>
+        
     )
 }
 

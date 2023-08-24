@@ -1,10 +1,44 @@
-.skillsTitle {
-    color: red;
+.skillsList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 60%;
 }
-.skillsLogo {
-    width: 40px;
-}
-.skillsRating {
-    font-size: 40px;
-    color: blueviolet;
-}
+    .skillsCard {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 130px;
+        width: auto;
+    }
+        .skillsTitle {
+            text-align: center;
+            font-family: 'Anonymous_Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .skillsLogo {
+            width: 60px;
+            margin: auto;
+        }
+        .ratingGauge {
+            height: 12px;
+            background: linear-gradient(to right, rgb(237, 127, 51), rgb(33, 186, 12)) ;
+            border-radius: 10px;
+            position: relative;
+            overflow: hidden;    
+        }
+        .ratingGauge::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            height: 100%;
+            width: var(--percent); /*définit la largeur */
+            background: rgb(223, 223, 223);
+        } 
+  
+
+  
+
+  
