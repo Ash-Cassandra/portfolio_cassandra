@@ -3,5 +3,40 @@
         "title" : "HTML",
         "logo": "/logos/html-5.png",
         "rating" : "3"
+    },
+    { 
+        "title" : "CSS",
+        "logo": "/logos/css-3.png",
+        "rating" : "3"
+    },
+    {
+        "title" : "Javascript",
+        "logo": "/logos/js.png",
+        "rating" : "2"
+    },
+    {
+        "title" : "React JS",
+        "logo": "/logos/React-icon.png",
+        "rating" : "2"
+    },
+    {
+        "title" : "Node Express",
+        "logo": "/logos/node_express.png",
+        "rating" : "1"
+    },
+    {
+        "title" : "Adobe express",
+        "logo": "/logos/adobe_express.png",
+        "rating" : "2"
+    },
+    {
+        "title" : "Canva pro",
+        "logo": "/logos/canva_logo.png",
+        "rating" : "3"
+    },
+    {
+        "title" : "PIXLR",
+        "logo": "/logos/pixlr.png",
+        "rating" : "3"
     }
 ]
