@@ -9,6 +9,9 @@ function Portfolio() {
             <BlurredBackground/>
             <PageTitle title='portfolio'/>
             <Nav/>
+            <main>
+                
+            </main>
         </div>
     )
 }

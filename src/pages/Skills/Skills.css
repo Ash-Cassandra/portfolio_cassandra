@@ -11,7 +11,7 @@
         flex-direction: column;
         justify-content: space-between;
         height: 130px;
-        width: auto;
+        width: 100px;
     }
         .skillsTitle {
             text-align: center;

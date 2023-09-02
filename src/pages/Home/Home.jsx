@@ -18,7 +18,7 @@ function Home() {
                         <li>
                             J’ai également entrepris des projets centrés sur le design et la communication, ajoutant une touche artistique à mon arsenal de compétences.
                         </li>
-                        <li>
+                        <li >
                             Ensemble, nous transformerons vos idées en réalité. Ne laissez pas votre vision se perdre dans l'ombre de l'anonymat.
                         </li>
                         <li>

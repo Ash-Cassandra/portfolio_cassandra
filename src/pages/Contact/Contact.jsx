@@ -15,7 +15,7 @@ function Contact() {
             <Nav/>
                 <main>
                     <adress className="contact">
-                            <p>Pour toute demande de devis ou toute question que vous pourriez avoir, je suis là pour vous aider.</p>
+                            <p>Pour toute demande de devis ou pour repondre à vos questions, je suis là pour vous aider.</p>
                                 <a href="mailto:cassandra_devweb@outlook.fr" className='contactInfo'>Par mail</a><br/>
                                 <a href="tel:0675073509" className='contactInfo'>Par téléphone</a><br/>
                     </adress>
