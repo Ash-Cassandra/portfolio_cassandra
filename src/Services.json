@@ -2,16 +2,15 @@
     {
         "title": "Developpement Web",
         "description": [
-            "Developpement de sites vitrine",
+            "Développement de sites vitrine",
             "Applications web responsives",
             "Serveur Node JS avec Express",
-            "Referencement de site web"
+            "Référencement de site web"
         ]
     },
     {
         "title": "Web Design",
         "description": [
-            "Creation de logo",
             "Création de maquette web",
             "Conception de visuel pour reseau sociaux",
             "Création d'affiches, flyers et cartes de visite"
@@ -20,10 +19,10 @@
     {
         "title": "Services Numériques",
         "description": [
-            "Atelier découverte, codage enfant (initiation, pilotage de robot, jeu, création de premier site ou d'animation)",
+            "Atelier découverte, codage enfant (initiation, pilotage de robot, jeux, création de premier site ou d'animation)",
             "Atelier stop motion",
             "Cours informatique débutant tout âge ",
-            "Instalation de logiciel divers et logiciel de contrôle parental",
+            "Installation de logiciel divers et logiciel de contrôle parental",
             "Dépannage informatique"
         ]
     }

@@ -7,5 +7,6 @@
     transform: translate(-50%, -50%);
     background-color: rgba(0, 0, 0, 0.2); /* Noir avec opacité */
     backdrop-filter: blur(1px);
+    border-radius: 10px;
     z-index: -1;
     }
