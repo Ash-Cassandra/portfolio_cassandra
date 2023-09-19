@@ -5,6 +5,7 @@ import Nav from '../../components/Nav/Nav'
 import Collaps from '../../components/Collaps/Collaps'
 import dataServices from '../../Services.json'
 import './Services.css'
+import Footer from '../../components/Footer/Footer'
 
 function Services() {
     return(
@@ -24,7 +25,7 @@ function Services() {
                             </ul>
                         </Collaps>
                     ))}
-                </main>    
+                </main>   
         </div>
         
     )

@@ -3,6 +3,7 @@ import BlurredBackground from '../../components/BlurredBackground/BlurredBackgro
 import PageTitle from '../../components/Title/Title';
 import Nav from '../../components/Nav/Nav';
 import './Home.css'
+import Footer from '../../components/Footer/Footer';
 
 function Home() {
     return(
@@ -26,6 +27,7 @@ function Home() {
                         </li>
                     </ul>
                 </main>
+                
         </div>
     )
 }

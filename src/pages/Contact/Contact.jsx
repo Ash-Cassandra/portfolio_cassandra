@@ -3,6 +3,7 @@ import BlurredBackground from '../../components/BlurredBackground/BlurredBackgro
 import PageTitle from '../../components/Title/Title';
 import Nav from '../../components/Nav/Nav';
 import './Contact.css'
+import Footer from '../../components/Footer/Footer';
 
 
 

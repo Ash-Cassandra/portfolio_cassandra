@@ -3,7 +3,7 @@
     src: url('../../assets/League_Gothic/static/LeagueGothic_SemiCondensed-Regular.ttf') format('truetype');
 }
 .pageTitle {
-    width: 100%;
+    width: 99%;
     position: absolute;
     top: 13%;
     text-transform: uppercase;

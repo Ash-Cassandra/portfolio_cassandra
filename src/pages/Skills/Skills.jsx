@@ -5,6 +5,7 @@ import Nav from '../../components/Nav/Nav'
 import dataSkills from '../../Skills.json'
 import './Skills.css'
 import Rating from '../../components/Ratings/Ratings'
+import Footer from '../../components/Footer/Footer'
 
 function Skills() {
         return(

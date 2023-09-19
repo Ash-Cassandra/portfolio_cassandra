@@ -1,0 +1,25 @@
+.projectsList {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgb(255, 255, 255, 0.2);
+    border-radius: 10px;
+    width: 60%;
+}
+    .projectsCard {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 130px;
+        width: 100px;
+    }
+        .projectsTitle {
+            text-align: center;
+            font-family: 'Anonymous_Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        .projectsImg {
+            width: 60px;
+            margin: auto;
+        }
