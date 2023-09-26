@@ -5,12 +5,19 @@ body {
   background-image: url('../src/assets/img_fond.webp');
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+::-webkit-scrollbar {
+  display: none;
+  }
 main {
+  height: 550px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translateX(-50%);
   font-family: 'Anonymous_Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  overflow: scroll;
+
 }

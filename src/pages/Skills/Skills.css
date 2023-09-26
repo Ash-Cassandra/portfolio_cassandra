@@ -7,6 +7,7 @@
     background-color: rgb(255, 255, 255, 0.2);
     border-radius: 10px;
     width: 60%;
+    gap: 40px;
 }
     .skillsCard {
         display: flex;

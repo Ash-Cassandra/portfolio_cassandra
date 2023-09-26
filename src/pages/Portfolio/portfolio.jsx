@@ -16,8 +16,9 @@ function Portfolio() {
                 <main className='projectsList'>
                     {dataProjects.map(( project, index) => (
                         <figure key={index} className='projectsCard'>
+                            <img className='projectsImg' src={project.cover} alt={project.title} title={project.tag}/>
                             <figcaption className='projectsTitle'>{project.title}</figcaption>
-                            <img className='projectsImg' src={project.cover} alt={project.title} />
+                            <figcaption className='projectsTag'>{project.tag}</figcaption>
                         </figure>
                     ))}
                 </main>  

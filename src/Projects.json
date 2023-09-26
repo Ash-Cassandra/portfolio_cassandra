@@ -1,12 +1,28 @@
 [
     {
+        "id": "01",
+        "title": "Developpement web",
+        "cover":  "/imgProjects/projet_01_01.png",
+        "pictures": [
+            "/imgProjects/projet_01_01.png",
+            "/imgProjects/projet_01_02.png"
+        ],
+        "tag": "Intégrer l'interface d'un site pour une ludothèque",
+        "description": "Developper le front-end, pour une ludothèque itinérante",
+        "skills": [
+            "html",
+            "css"
+        ]
+    },
+    {
         "id": "02",
-        "title": "dev web",
+        "title": "Developpement web",
         "cover":  "/imgProjects/projet_2_01.png",
         "pictures": [
             "/imgProjects/projet_2_01.png",
             "/imgProjects/projet_2_02.png"
         ],
+        "tag": "Intégrer l'interface d'un site de reservations d'hebergements et de recherche d'activités",
         "description": "Developper le front-end, pour un site de recherche d'hébergements et d'activités",
         "skills": [
             "html",
@@ -15,7 +31,7 @@
     },
     {
         "id": "03",
-        "title": "dev web",
+        "title": "Developpement web",
         "cover": "/imgProjects/projet_3_01.png",
         "pictures": [
             "/imgProjects/projet_3_01.png",
@@ -23,6 +39,7 @@
             "/imgProjects/projet_3_03.png",
             "/imgProjects/projet_3_04.png"
         ],
+        "tag": "Créez une page web dynamique avec JavaScript du site portfolio d’une architecte d’intérieur.",
         "description": "Developper le front-end d'un portfolio pour une photographe, utilisation de javaScript pour recupérer les travaux depuis l'API et mettre en page les projets. Coder la page de connexion utilisateur pour permettre à la photographe de modifier, ajouter ou supprimer des projets sur le site.",
         "skills": [
             "javaScript"
@@ -30,7 +47,7 @@
     },
     {
         "id": "05",
-        "title": "dev web",
+        "title": "Developpement web",
         "cover": [
             "/imgProjects/projet_5_01.png"
         ],
@@ -39,6 +56,7 @@
             "/imgProjects/projet_5_02.png",
             "/imgProjects/projet_5_03.png"
         ],
+        "tag": "Débuggez et optimisez un site de photographe",
         "description": "Debugge et optimisation d'un site de photographe. Référencement SEO et meta reseaux sociaux. Bonnes pratiques liées à l'accessibilité.",
         "skills": [
             "DevTools", 
@@ -48,7 +66,7 @@
     },
     {
         "id": "06",
-        "title": "dev web",
+        "title": "Developpement web",
         "cover": [
             "/imgProjects/projet_06_02.png"
         ],
@@ -58,6 +76,7 @@
             "/imgProjects/projet_06_03.png"
             
         ],
+        "tag":"Créez une application web de location immobilière avec React",
         "description": "Refonte d'un site de location de logement avec React App, création de composent, de collaps et de caroussel.",
         "skills": [
             "Create react app",
@@ -67,13 +86,14 @@
     },
     {
         "id": "07",
-        "title": "dev web",
+        "title": "Developpement web",
         "cover": [
             "/imgProjects/projet_7_01.png"
         ],
         "pictures": [
             "/imgProjects/projet_7_01.png"
         ],
+        "tag":"Développez le back-end d'un site de notation de livres",
         "description": "Mise en place du back-end d'un site de notation de livres. Traitement des requêtes API, optimisation d'image pour du green code, gestion des operation CRUD. Je me suis également occupée de la sécurité du site, hashage de mot de passe, vérification de conformité d'identifiants, mise en securité d'informations sensibles.",
         "skills": [
             "Node JS",
@@ -87,7 +107,7 @@
     },
     {
     "id": "08",
-        "title": "web design",
+        "title": "Web design",
         "cover":[ 
             "/imgProjects/logo_cercle_noir.png"
         ],
@@ -105,7 +125,7 @@
     },
     {
         "id": "09",
-            "title": "web design",
+            "title": "Web design",
             "cover":[ 
                 "/imgProjects/couverture_facebook.png"
             ],
@@ -120,7 +140,7 @@
         },
         {
             "id": "10",
-                "title": "web design",
+                "title": "Web design",
                 "cover":[ 
                     "/imgProjects/flyer_festijoc.png"
                 ],
@@ -134,7 +154,7 @@
             },
             {
                 "id": "11",
-                    "title": "web design",
+                    "title": "Web design",
                     "cover":[ 
                         "/imgProjects/Publication_site_web.png"
                     ],

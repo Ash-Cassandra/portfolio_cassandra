@@ -4,22 +4,33 @@
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
-    background-color: rgb(255, 255, 255, 0.2);
-    border-radius: 10px;
-    width: 60%;
+    width: 88%;
 }
     .projectsCard {
+        position: relative;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        height: 130px;
-        width: 100px;
+        height: 300px;
+        width: 300px;
     }
         .projectsTitle {
-            text-align: center;
+            text-align: left;
             font-family: 'Anonymous_Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            color: rgb(20, 33, 61);
+            font-size: 20px;
+            margin: 4px 0 4px 10px;
         }
         .projectsImg {
-            width: 60px;
+            width: 100%;
+            height: 87%;
+            object-fit: cover;
+            border-radius: 10px;
             margin: auto;
+        }
+        .projectsTag {
+            width: 100%;
+            margin-left: 10px;
+            text-align: left;
+            font-size: 12.5px;
         }
