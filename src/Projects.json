@@ -11,7 +11,7 @@
         "description": "Developper le front-end, pour une ludothèque itinérante",
         "skills": [
             "html",
-            "css"
+            " css"
         ]
     },
     {
@@ -26,7 +26,7 @@
         "description": "Developper le front-end, pour un site de recherche d'hébergements et d'activités",
         "skills": [
             "html",
-            "css"
+            " css"
         ]
     },
     {
@@ -60,9 +60,9 @@
         "description": "Debugge et optimisation d'un site de photographe. Référencement SEO et meta reseaux sociaux. Bonnes pratiques liées à l'accessibilité.",
         "skills": [
             "DevTools", 
-            "meta",
-            "lighthouse",
-            "wave"]
+            " meta",
+            " lighthouse",
+            " wave"]
     },
     {
         "id": "06",
@@ -80,8 +80,8 @@
         "description": "Refonte d'un site de location de logement avec React App, création de composent, de collaps et de caroussel.",
         "skills": [
             "Create react app",
-            "react rooter",
-            "context react"
+            " react rooter",
+            " context react"
         ]
     },
     {
@@ -97,12 +97,12 @@
         "description": "Mise en place du back-end d'un site de notation de livres. Traitement des requêtes API, optimisation d'image pour du green code, gestion des operation CRUD. Je me suis également occupée de la sécurité du site, hashage de mot de passe, vérification de conformité d'identifiants, mise en securité d'informations sensibles.",
         "skills": [
             "Node JS",
-            "Express JS",
-            "Mongo DB",
-            ".env",
-            "bcrypt",
-            "Multer",
-            "Sharp"
+            " Express JS",
+            " Mongo DB",
+            " .env",
+            " bcrypt",
+            " Multer",
+            " Sharp"
             ]
     },
     {
@@ -116,11 +116,12 @@
             "/imgProjects/logo_rond.png",
             "/imgProjects/logo_cercle_noir.png"
         ],
+        "tag":"Création de logo",
         "description": "Création d'un logo pour l'ouverture d'un centre social, sur des idées de parents.",
         "skills": [
-            "Pixlr",
-            "Canva pro",
-            "Adobe Express"
+            " Pixlr",
+            " Canva pro",
+            " Adobe Express"
         ]
     },
     {
@@ -133,6 +134,7 @@
                 "/imgProjects/couverture_facebook.png",
                 "/imgProjects/couverture_facebook_02.png"
             ],
+            "tag":"Création de bannière Facebook",
             "description": "Création d'une bannière facebook pour la promotion d'un festival.",
             "skills": [
                 "Canva pro"
@@ -147,6 +149,7 @@
                 "pictures": [
                     "/imgProjects/flyer_festijoc.png"
                 ],
+                "tag":"Création de flyers",
                 "description": "Conception de flyers pour un évènement.",
                 "skills": [
                     "Canva pro"
@@ -162,6 +165,7 @@
                         "/imgProjects/Publication_site_web.png",
                         "/imgProjects/Publication_site_web_02.png"
                     ],
+                    "tag":"Documents promotionnels web, publications facebook, articles site web",
                     "description": "Article pour publication sur un site web.",
                     "skills": [
                         "Canva pro"

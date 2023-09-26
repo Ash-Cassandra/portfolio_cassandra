@@ -26,6 +26,9 @@ function Contact() {
                                     Par téléphone<br/>
                                     <span className='contactInfo'>06.75.07.35.09</span>
                                     </a>
+                                <a href="https://github.com/Ash-Cassandra" className='contactTitle' >
+                                    GitHub<br/>
+                                    </a>
                     </adress>
                 </main>
         </div>
