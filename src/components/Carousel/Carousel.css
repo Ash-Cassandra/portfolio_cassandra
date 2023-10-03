@@ -1,1 +1,19 @@
+.indicators {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 80px;
+    margin: auto
+}
+    .carousel-indicator {
+        width: 10px; 
+        height: 10px; 
+        background-color:  rgb(20, 33, 61); 
+        border-radius: 50%; /*rond*/
+        margin-top: 10px;
+    }
+        .active-indicator {
+            background-color:  rgb(252, 163, 17); 
+        }
 

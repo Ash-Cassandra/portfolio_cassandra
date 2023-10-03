@@ -1,7 +1,17 @@
 .desc {
+    position: absolute;
+    bottom: 10%;
+    left: 50%;
+    transform: translateX(-50%);
     height: auto;
+    width: 80%;
+    text-align: center;
+    margin: auto;
 }
 .itemPictureId {
     width: auto;
     height: 350px;
+    display: flex;
+    align-items: center; 
+    margin: auto;   
   }

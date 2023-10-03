@@ -12,9 +12,10 @@ body {
   display: none;
   }
 main {
-  height: 375px;
+  height: 475px;
+  width: 80%;
   position: absolute;
-  top: 50%;
+  top: 45%;
   left: 50%;
   transform: translateX(-50%);
   font-family: 'Anonymous_Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
