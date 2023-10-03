@@ -20,5 +20,8 @@ main {
   transform: translateX(-50%);
   font-family: 'Anonymous_Pro', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   overflow: scroll;
-
+}
+.main-50 {
+  position: absolute;
+  top: 50%;
 }

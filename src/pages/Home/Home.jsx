@@ -11,7 +11,7 @@ function Home() {
             <BlurredBackground/>
             <PageTitle title='cassandra'/>
             <Nav/>
-                <main className='main-home'>
+                <main className='main-50'>
                     <ul className='description'>
                         <li>
                             Passionnée par les métiers de la tech et du numérique, j’ai entrepris une reconversion professionnelle vers le développement web. Je suis particulièrement intéressée par le développement front-end et l'expérience utilisateur.

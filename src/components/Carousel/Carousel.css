@@ -1,9 +1,8 @@
 .indicators {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    width: 80px;
+    justify-content: center;
+    gap: 20px;
     margin: auto
 }
     .carousel-indicator {

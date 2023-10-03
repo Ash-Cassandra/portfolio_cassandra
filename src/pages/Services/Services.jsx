@@ -13,7 +13,7 @@ function Services() {
             <BlurredBackground/>
             <PageTitle title='services'/>
             <Nav/>
-                <main className='servicesTitle'>
+                <main className='main-50 servicesTitle'>
                     {dataServices.map((service, index) => (
                         <Collaps key={index} title={service.title}>
                             <ul className='servicesDescription'>

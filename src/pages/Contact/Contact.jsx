@@ -14,7 +14,7 @@ function Contact() {
             <BlurredBackground/>
             <PageTitle title='contact'/>
             <Nav/>
-                <main>
+                <main className='main-50'>
                     <adress className="contact">
                             <p>Pour toute demande de devis ou pour tout renseignement ou question, contactez-moi.<br/>
                             Chaque demande sera étudiée.</p>
