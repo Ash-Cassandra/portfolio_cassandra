@@ -1,10 +1,9 @@
 .servicesTitle {
     display: flex;
     flex-direction: row;
-    align-items: center;
-    flex-wrap: nowrap;
-    width: auto;
-    margin-bottom: 40px;
+    justify-content: space-around;
+    width: 90%;
+    height: auto;
 }
     .btnCollaps {
         display: flex;
@@ -49,8 +48,10 @@
 
 @media screen and (max-width: 1140px) {
     .servicesTitle {
+        height: 45%;
         flex-direction: column;
         align-items: center;
+        justify-content: flex-start;
         gap: 10px;
     }
     .btnCollaps {
