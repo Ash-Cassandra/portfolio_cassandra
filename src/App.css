@@ -12,7 +12,7 @@ body {
   display: none;
   }
 main {
-  height: 475px;
+  height: 50%;
   width: 80%;
   position: absolute;
   top: 45%;
@@ -24,4 +24,7 @@ main {
 .main-50 {
   position: absolute;
   top: 50%;
+}
+.pageTitle {
+  position: fixed;
 }

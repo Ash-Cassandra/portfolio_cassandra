@@ -1,9 +1,10 @@
 .servicesTitle {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    gap: 120px;
-    width: 90%;
+    align-items: center;
+    flex-wrap: nowrap;
+    width: auto;
+    margin-bottom: 40px;
 }
     .btnCollaps {
         display: flex;
@@ -15,7 +16,7 @@
         border-radius: 10px;
         border: none;
         background-color:rgb(252, 163, 17);
-        width: 300px;
+        width: 350px;
         height: 40px;
     }
         .CollapsThreePts {
@@ -33,6 +34,32 @@
         border-radius: 10px;
         border: none;
         background-color:rgb(20, 33, 61);
-        width: 280px;
+        width: 327px;
         padding: 10px;
     }
+
+@media  screen and (max-width: 1210px) {
+    .btnCollaps{
+        width: 300px;
+    }
+    .servicesDescription {
+        width: 280px;
+    }
+}
+
+@media screen and (max-width: 1140px) {
+    .servicesTitle {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+    .btnCollaps {
+        width: 400px;
+
+    }
+    .servicesDescription {
+        width: 380px; 
+        margin-bottom: 50px;
+
+    }
+}
