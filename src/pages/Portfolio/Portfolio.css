@@ -39,3 +39,14 @@ a {
     text-decoration: none;
 }
 
+@media screen and (max-width:1110px) {
+    .projectsList {
+        top: 35%;
+    }    
+}
+@media screen and (max-width: 870px) {
+    .projectsList {
+        justify-content: center;
+    }
+    
+}

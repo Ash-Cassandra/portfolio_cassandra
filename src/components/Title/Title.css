@@ -13,3 +13,16 @@
     letter-spacing: 13px;
     text-align: center;
 }
+
+@media screen and (max-width: 1110px) {
+    .pageTitle {
+        top: 9%;
+        font-size: 95px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .pageTitle {
+        top: 10%;
+        font-size: 70px;
+    }
+}

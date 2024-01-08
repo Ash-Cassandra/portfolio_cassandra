@@ -64,3 +64,14 @@
 
     }
 }
+@media screen and (max-width: 600px) {
+    .servicesTitle {
+        gap: 30px;
+    }
+    .btnCollaps {
+        width: 280px;
+    }
+    .servicesDescription {
+        width: 360px;
+    }
+}

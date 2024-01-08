@@ -2,6 +2,7 @@
     {
         "id": "01",
         "title": "Developpement web",
+        "name":"Pass'a'jeux",
         "cover":  "/imgProjects/projet_01_01.png",
         "pictures": [
             "/imgProjects/projet_01_01.png",
@@ -17,6 +18,7 @@
     {
         "id": "02",
         "title": "Developpement web",
+        "name":"Booki",
         "cover":  "/imgProjects/projet_2_01.png",
         "pictures": [
             "/imgProjects/projet_2_01.png",
@@ -49,6 +51,7 @@
     {
         "id": "05",
         "title": "Developpement web",
+        "name":"portfolio",
         "cover": [
             "/imgProjects/projet_5_01.png"
         ],
@@ -68,6 +71,7 @@
     {
         "id": "06",
         "title": "Developpement web",
+        "name": "Kasa",
         "cover": [
             "/imgProjects/projet_06_02.png"
         ],
@@ -88,6 +92,7 @@
     {
         "id": "07",
         "title": "Developpement web",
+        "name":"Backend",
         "cover": [
             "/imgProjects/projet_7_01.png"
         ],
@@ -109,6 +114,7 @@
     {
     "id": "08",
         "title": "Web design",
+        "name":"logos",
         "cover":[ 
             "/imgProjects/logo_cercle_noir.png"
         ],
@@ -128,6 +134,7 @@
     {
         "id": "09",
             "title": "Web design",
+            "name":"bannières Facebook",
             "cover":[ 
                 "/imgProjects/couverture_facebook.png"
             ],
@@ -136,7 +143,7 @@
                 "/imgProjects/couverture_facebook_02.png"
             ],
             "tag":"Création de bannière Facebook",
-            "description": "Création d'une bannière facebook pour la promotion d'un festival.",
+            "description": "Création de bannières facebook pour la promotion d'évènements.",
             "skills": [
                 "Canva pro"
             ]
@@ -144,14 +151,15 @@
         {
             "id": "10",
                 "title": "Web design",
+                "name":"flyers / Affiches",
                 "cover":[ 
                     "/imgProjects/flyer_festijoc.png"
                 ],
                 "pictures": [
                     "/imgProjects/flyer_festijoc.png"
                 ],
-                "tag":"Création de flyers",
-                "description": "Conception de flyers pour un évènement.",
+                "tag":"Création de flyers et d'affiches",
+                "description": "Conception de flyers et affiches pour des évènements.",
                 "skills": [
                     "Canva pro"
                 ]
@@ -159,6 +167,7 @@
             {
                 "id": "11",
                     "title": "Web design",
+                    "name":"Visuel d'articles",
                     "cover":[ 
                         "/imgProjects/Publication_site_web.png"
                     ],
@@ -167,7 +176,7 @@
                         "/imgProjects/Publication_site_web_02.png"
                     ],
                     "tag":"Documents promotionnels web, publications facebook, articles site web",
-                    "description": "Article pour publication sur un site web.",
+                    "description": "Articles pour publication sur un site web.",
                     "skills": [
                         "Canva pro"
                     ]

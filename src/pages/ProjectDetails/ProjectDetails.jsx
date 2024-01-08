@@ -24,7 +24,7 @@ import Carousel from "../../components/Carousel/Carousel";
               <BlurredBackground />
               <Nav />
               <PageTitle title={dataId.name} />
-              <main>
+              <main className="main-projectDetails">
                 <Carousel className="carousel">
                     {dataId.pictures.map((picture, index) =>
                     <div>

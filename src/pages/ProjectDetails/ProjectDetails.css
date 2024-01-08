@@ -13,5 +13,9 @@
     height: 350px;
     display: flex;
     align-items: center; 
-    margin: auto;   
+    margin: auto; 
+    top: 20%; 
+  }
+  .main-projectDetails {
+    top: 38%;
   }
